@@ -1,6 +1,7 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-**DATE**:17-08-26
-**NAME**:DARSHAN J 212224020008
+##DATE:17-08-26
+##NAME:DARSHAN J 
+##Reg.no:212224020008
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
